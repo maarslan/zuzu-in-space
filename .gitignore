@@ -1,0 +1,19 @@
+# Godot 4 otomatik uretilen dosyalar
+.godot/
+/android/
+*.translation
+
+# Derleme ciktilari
+/build/
+*.apk
+*.aab
+
+# Imza anahtarlari - ASLA depoya girmez
+*.keystore
+*.jks
+
+# Isletim sistemi dosyalari
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
