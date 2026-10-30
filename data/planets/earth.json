@@ -1,0 +1,13 @@
+{
+  "id": "earth",
+  "name_tr": "Dünya",
+  "name_en": "Earth",
+  "gravity": 1.0,
+  "atmosphere": 1.0,
+  "temperature_zones": ["mild"],
+  "wind_base": 0.0,
+  "wind_storm": 0.0,
+  "sound_damping": 0.0,
+  "sources": ["N1"],
+  "_not": "Oynanış alanları (rüzgar, sürtünme ayarı) Gün 7'de doldurulacak. Kaynaklar: docs/sources.md"
+}

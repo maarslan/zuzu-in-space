@@ -20,3 +20,6 @@ desktop.ini
 
 # Yerel arac kayitlari
 *.log
+
+# Ses kaynak paketleri (secilenler assets/audio/sfx icine kopyalanir)
+assets/audio/_kaynak/

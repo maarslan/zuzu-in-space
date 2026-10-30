@@ -52,3 +52,8 @@ Single object, centered, full body visible, plain light grey background, neutral
 
 ## Blender üretim notu
 Kil görünümü Blender'da: mat malzeme + ince gürültü dokusu ile yüzey bozulması + yuvarlatılmış kenarlar. Oyuna giden modelde doku haritaya pişirilir (mobil uyumlu). İlk deneme Gün 3'te.
+
+## Renk dili ekleri (2026-10-31)
+- Yıldız: sarı (#F5B82E). Toplanabilir enerji kapsülü: camgöbeği (#3FC8D8).
+- Öneri (onay bekliyor): gemi enerji kapsülünün sıvısı da camgöbeği (toplanan enerjiyle aynı renk: "bunu topla, gemiye gider").
+- Jet alevleri sarı-turuncu kalır.

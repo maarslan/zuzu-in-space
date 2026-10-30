@@ -1,0 +1,13 @@
+{
+  "id": "mars",
+  "name_tr": "Mars",
+  "name_en": "Mars",
+  "gravity": 0.377,
+  "atmosphere": 0.01,
+  "temperature_zones": ["cold", "very_cold_poles"],
+  "wind_base": 1.0,
+  "wind_storm": 3.5,
+  "sound_damping": 0.4,
+  "sources": ["N1", "N2", "N4", "N5", "N6"],
+  "_not": "wind_storm/wind_base oranı Viking ölçümlerine göre (~3-4 kat). Oynanış alanları Gün 7'de. Kaynaklar: docs/sources.md"
+}

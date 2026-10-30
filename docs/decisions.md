@@ -21,6 +21,10 @@
 | 2026-10-31 | Parça değerleri ve kalkış kuralı | `parts_and_stats.md` + `data/parts/ship_parts.json` onaylandı (taslak, Gün 13'te ayar). Kalkış: itki > ağırlık × yerçekimi; itki çubuğunda gereken seviye çizgisi |
 | 2026-10-31 | Parça görselleri | `concepts/parcalar.png` onaylandı. Montaj: bacaklar kabuğun parçası (açılır/katlanır); itici modülü ayak ucuna takılır; yumuşak taban jet ağzının çevresine halka yastık olarak takılır |
 | 2026-10-31 | Hangar yerleşimi | `concepts/hangar_taslak.png`: çubuklar sol üst, gemi ortada, robot solda, parça şeridi altta, fırlat sağ alt, duraklat sağ üst. Gerçek ekranda arka plan daha sade ve koyu; şeritte sadece 8 parça (kubbe ve hortum parça değil) |
+| 2026-10-31 | Gezegen değerleri | NASA'dan doğrulandı (`sources.md`); oyunda Ay 0,166, Mars 0,377 (`data/planets/`) |
+| 2026-10-31 | Ortam konseptleri | `concepts/ortam_dunya/ay/mars.png` ortam dili için onaylı. Görsellerdeki Zuzu iki kollu ve tek gövdeli: geçersiz, model `zuzu_a`'ya göre yapılır. Mars'taki dağ yanlış (karlı sivri dağ); Olympus Mons çok geniş, alçak eğimli kalkan yanardağ olarak çizilecek, karsız |
+| 2026-10-31 | Renk dili | Yıldız = sarı, toplanabilir enerji = camgöbeği. Öneri (onay bekliyor): gemi enerji kapsülünün sıvısı modelde camgöbeği olsun |
+| 2026-10-31 | Ses efektleri | 28 efekt seçildi ve `assets/audio/sfx/`e kondu (Kenney CC0 + kendi rüzgar sesi). Zuzu sesleri: kendi kaydımız |
 
 ## Açık kararlar
 

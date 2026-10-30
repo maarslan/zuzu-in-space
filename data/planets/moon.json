@@ -1,0 +1,13 @@
+{
+  "id": "moon",
+  "name_tr": "Ay",
+  "name_en": "Moon",
+  "gravity": 0.166,
+  "atmosphere": 0.0,
+  "temperature_zones": ["hot_sun", "cold_shadow"],
+  "wind_base": 0.0,
+  "wind_storm": 0.0,
+  "sound_damping": 0.9,
+  "sources": ["N1", "N2", "N3", "N7"],
+  "_not": "Oynanış alanları Gün 7'de doldurulacak. Kaynaklar: docs/sources.md"
+}
