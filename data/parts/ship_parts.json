@@ -1,0 +1,97 @@
+{
+  "_aciklama": "Zuzu uzay gemisi parçaları. Değerler TASLAK; Gün 13'te oyun içinde ayarlanacak. Ağırlık ve itki aynı ölçekte. Kalkış kuralı: itki > toplam ağırlık × gezegen yerçekimi. Görünen adlar ileride localization/ dosyalarına taşınacak.",
+  "slots": [
+    "kabuk",
+    "itici",
+    "enerji_deposu",
+    "dengeleyici",
+    "inis_bacagi"
+  ],
+  "base_balance": 1,
+  "parts": [
+    {
+      "id": "kabuk_hafif",
+      "slot": "kabuk",
+      "name_tr": "Hafif kabuk",
+      "name_en": "Light shell",
+      "unlock": "start",
+      "weight": 2.0,
+      "durability": 1,
+      "comic_fail": "Hafif çarpmada tıngırdayarak sekiyor"
+    },
+    {
+      "id": "kabuk_saglam",
+      "slot": "kabuk",
+      "name_tr": "Sağlam kabuk",
+      "name_en": "Sturdy shell",
+      "unlock": "moon_1",
+      "weight": 5.0,
+      "durability": 3,
+      "comic_fail": "Küçük jetlerle Dünya'da kalkamıyor, \"ıhhh\" sesi"
+    },
+    {
+      "id": "itici_kucuk",
+      "slot": "itici",
+      "name_tr": "Küçük bacak jetleri",
+      "name_en": "Small leg jets",
+      "unlock": "start",
+      "weight": 1.0,
+      "thrust": 6.0,
+      "energy_use": 1.0,
+      "comic_fail": "Dünya'da sağlam kabuğu kaldıramıyor"
+    },
+    {
+      "id": "itici_buyuk",
+      "slot": "itici",
+      "name_tr": "Büyük bacak jetleri",
+      "name_en": "Big leg jets",
+      "unlock": "moon_3",
+      "weight": 2.0,
+      "thrust": 12.0,
+      "energy_use": 2.5,
+      "balance": -1,
+      "comic_fail": "Hafif kabukla tavana yapışıyor"
+    },
+    {
+      "id": "depo_kucuk",
+      "slot": "enerji_deposu",
+      "name_tr": "Küçük enerji kapsülü",
+      "name_en": "Small energy capsule",
+      "unlock": "start",
+      "weight": 1.0,
+      "energy": 30.0,
+      "comic_fail": "Enerji bitince jetler \"pıt pıt\" sönüyor"
+    },
+    {
+      "id": "depo_buyuk",
+      "slot": "enerji_deposu",
+      "name_tr": "Büyük enerji kapsülü",
+      "name_en": "Big energy capsule",
+      "unlock": "mars_1",
+      "weight": 3.0,
+      "energy": 70.0,
+      "comic_fail": ""
+    },
+    {
+      "id": "dengeleyici",
+      "slot": "dengeleyici",
+      "name_tr": "Dengeleyici",
+      "name_en": "Stabilizer",
+      "unlock": "earth_1",
+      "weight": 0.5,
+      "balance": 3,
+      "comic_fail": "Takılmazsa gemi fırıl fırıl dönüyor"
+    },
+    {
+      "id": "inis_tabani",
+      "slot": "inis_bacagi",
+      "name_tr": "Yumuşak ayak tabanı",
+      "name_en": "Soft landing pads",
+      "unlock": "moon_2",
+      "weight": 0.5,
+      "balance": 1,
+      "landing_soft": true,
+      "comic_fail": "Takılmazsa Zuzu ailesi inişte hoplayıp kubbede yığılıyor"
+    }
+  ]
+}

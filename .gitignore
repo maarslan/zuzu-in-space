@@ -17,3 +17,6 @@ Thumbs.db
 desktop.ini
 .DS_Store
 *.tmp
+
+# Yerel arac kayitlari
+*.log
